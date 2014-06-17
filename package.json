@@ -8,8 +8,8 @@
   ],
   "author": "Sam Hauglustaine <sam@strictlyphp.com>",
   "dependencies": {
-    "cheerio": "~0.10.7",
-    "underscore": "~1.4.4"
+    "cheerio": "~0.16.0",
+    "underscore": "~1.6.0"
   },
   "devDependencies": {
     "mocha": "*",
